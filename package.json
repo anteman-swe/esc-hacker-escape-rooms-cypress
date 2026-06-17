@@ -27,6 +27,7 @@
   "dependencies": {
     "braces": "^3.0.3",
     "chokidar": "^4.0.3",
+    "cypress": "^15.17.0",
     "detect-libc": "^1.0.3",
     "fill-range": "^7.1.1",
     "immutable": "^5.1.4",
